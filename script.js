@@ -35,7 +35,7 @@ window.onload = function() {
   
       // Reassign button functions
       document.getElementById("yes").onclick = function() {
-        alert("I love you, turkey");
+        alert("I love you");
         window.location.href = "https://www.youtube.com/watch?v=shVw6Gh-2iM";
       };
       document.getElementById("no").onclick = function() {
